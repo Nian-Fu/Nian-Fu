@@ -4,21 +4,17 @@ About Me:
 
 Hi there! I'm FuNian, a tech enthusiast on a journey of continuous learning and growth.
 
-Motto:
+Motto: No pain, no gain!
 
-No pain, no gain!
+Connect With Me:Email: funian.gm@gmail.com
 
-Connect With Me:
+CSDN: https://blog.csdn.net/weixin_44262492?type=blog
 
-Email: funian.gm@gmail.com
+Alibaba: https://developer.aliyun.com/my?spm=a2c6h.13148508.setting.3.938b4f0e0tcexO#/article
 
-CSDN Blog: https://blog.csdn.net/weixin_44262492?type=blog
+Zhihu: https://www.zhihu.com/creator
 
-Alibaba Cloud Developer: https://developer.aliyun.com/my?spm=a2c6h.13148508.setting.3.938b4f0e0tcexO#/article
-
-Zhihu Creator Page: https://www.zhihu.com/creator
-
-CNBlogs Posts: https://i.cnblogs.com/posts
+CNBlogs: https://i.cnblogs.com/posts
 
 other:
 
