@@ -6,7 +6,7 @@ Hi there! I'm FuNian, a tech enthusiast on a journey of continuous learning and 
 
 Motto: No pain, no gain!
 
-Connect With Me:Email: funian.gm@gmail.com
+Email: funian.gm@gmail.com
 
 CSDN: https://blog.csdn.net/weixin_44262492?type=blog
 
