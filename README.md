@@ -6,7 +6,7 @@ With a diverse range of hobbies, I enjoy playing the guitar and singing to unwin
 
 Feel free to explore my repositories for project demos, learning notes, and tool reviews. Let's connect and discuss AI innovations or tech insights together! 
 
-News：https://newsnow.busiyi.world/c/focus
+News：https://newsnow.busiyi.world/c/hottest
 
 CSDN: https://blog.csdn.net/weixin_44262492?type=blog
 
