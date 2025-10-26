@@ -10,4 +10,10 @@ News：https://newsnow.busiyi.world/c/hottest
 
 CSDN: https://blog.csdn.net/weixin_44262492?type=blog
 
-AI tools：https://ai-bot.cn/daily-ai-news/
+AI tools：https://ai-bot.cn/daily-ai-news
+
+Spring AI：https://docs.spring.io/spring-ai/reference/api/chatclient.html
+
+huggingface：https://huggingface.co/papers/week/2025-W34
+
+aliyun：https://www.aliyun.com/search/?k=百炼&scene=all
