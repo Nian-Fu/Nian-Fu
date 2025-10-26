@@ -14,6 +14,8 @@ AI tools：https://ai-bot.cn/daily-ai-news
 
 Spring AI：https://docs.spring.io/spring-ai/reference/api/chatclient.html
 
-huggingface：https://huggingface.co/papers/week/2025-W34
+Huggingface：https://huggingface.co/papers/week/2025-W34
 
-aliyun：https://www.aliyun.com/search/?k=百炼&scene=all
+Aliyun：https://www.aliyun.com/search/?k=百炼&scene=all
+
+Embodied-AI：https://github.com/TianxingChen/Embodied-AI-Guide
