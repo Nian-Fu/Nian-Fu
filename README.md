@@ -16,6 +16,4 @@ Spring AI：https://docs.spring.io/spring-ai/reference/api/chatclient.html
 
 Huggingface：https://huggingface.co/papers/week/2025-W34
 
-Aliyun：https://www.aliyun.com/search/?k=百炼&scene=all
-
 Embodied-AI：https://github.com/TianxingChen/Embodied-AI-Guide
