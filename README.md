@@ -1,14 +1,14 @@
 ## Hi there 👋
 
- I'm funian, a tech enthusiast passionate about the frontier development of Artificial Intelligence (AI), Large Language Models (LLMs), Reinforcement Learning (RL), and Embodied Intelligence.
+I'm Funian, a tech enthusiast focused on AI, LLMs, RL, and Embodied Intelligence. 
 
-With a diverse range of hobbies, I enjoy playing the guitar and singing to unwind, as well as running to stay energetic. As a humorous soul who loves writing, I focus on documenting my personal growth journey and sharing in-depth analyses of practical technical tools through my content.
+Fueled by sports to stay energized, 
 
-Feel free to explore my repositories for project demos, learning notes, and tool reviews. Let's connect and discuss AI innovations or tech insights together! 
-
-News：https://newsnow.busiyi.world/c/hottest
+I share project demos, learning notes, and practical tool analyses in my repos and CSDN -- feel free to explore and connect over AI innovations!
 
 CSDN: https://blog.csdn.net/weixin_44262492?type=blog
+
+News：https://newsnow.busiyi.world/c/hottest
 
 AI tools：https://ai-bot.cn/daily-ai-news
 
