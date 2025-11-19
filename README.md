@@ -4,7 +4,9 @@ I'm Funian, a tech enthusiast focused on AI, LLMs, RL, and Embodied Intelligence
 
 Fueled by sports to stay energized, 
 
-I share project demos, learning notes, and practical tool analyses in my repos and CSDN -- feel free to explore and connect over AI innovations!
+I share project demos, learning notes, and practical tool analyses in my repos and CSDN 
+
+feel free to explore and connect over AI innovations!
 
 CSDN: https://blog.csdn.net/weixin_44262492?type=blog
 
