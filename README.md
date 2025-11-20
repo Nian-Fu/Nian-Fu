@@ -1,21 +1,21 @@
-## Hi there 👋
+## Hi there 👋 
 
-I'm Funian, a tech enthusiast focused on AI, LLMs, RL, and Embodied Intelligence. 
+I'm Funian, a tech enthusiast ，love sports and guitar!  
 
-Fueled by sports to stay energized, 
+### 🌟 About Me  
+---  
+- Master's graduate from the School of Computer Science, Sichuan University  
+- Sports-driven to stay energized for tech exploration
+- Share project demos, learning notes & AI tool analyses  
 
-I share project demos, learning notes, and practical tool analyses in my repos and CSDN 
+### 🧠 Core Interests  
+---  
+- Large Language Models (LLMs) & Reinforcement Learning (RL)  
+- Embodied Intelligence & Practical AI tool application  
 
-feel free to explore and connect over AI innovations!
+### 🔗 Key Links  
+---  
+- CSDN: https://blog.csdn.net/weixin_44262492?type=blog  
+- AI Tools: https://ai-bot.cn/daily-ai-news  
 
-CSDN: https://blog.csdn.net/weixin_44262492?type=blog
-
-News：https://newsnow.busiyi.world/c/hottest
-
-AI tools：https://ai-bot.cn/daily-ai-news
-
-Spring AI：https://docs.spring.io/spring-ai/reference/api/chatclient.html
-
-Huggingface：https://huggingface.co/papers/week/2025-W34
-
-Embodied-AI：https://github.com/TianxingChen/Embodied-AI-Guide
+🤝 Feel free to star/fork or reach out to chat—excited for collaboration!  
