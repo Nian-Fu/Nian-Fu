@@ -1,10 +1,9 @@
 ## Hi there 👋 
 
-I'm Funian, a tech enthusiast ，love sports and guitar!  
+I'm Funian, a tech enthusiast ，sports-driven to stay energetic and love guitar!  
 
 ### 🌟 About Me
 - Master's graduate from the School of Computer Science, Sichuan University  
-- Sports-driven to stay energized for tech exploration
 - Share project demos, learning notes & AI tool analyses  
 
 ### 🧠 Core Interests   
