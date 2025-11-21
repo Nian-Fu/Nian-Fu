@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm Funian, a tech enthusiast ，sports-driven to stay energetic and love guitar!  
+I'm Funian, a tech enthusiast ，sports-driven to stay energetic!  
 
 ### 🌟 About Me
 - Master's graduate from the School of Computer Science, Sichuan University  
