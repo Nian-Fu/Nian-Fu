@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm Funian, a tech enthusiast ，sports-driven to stay energetic!  
+I'm Funian, a tech enthusiast ，sports-driven to stay energetic，love guitar!  
 
 ### 🌟 About Me
 - Master's graduate from the School of Computer Science, Sichuan University  
@@ -11,7 +11,6 @@ I'm Funian, a tech enthusiast ，sports-driven to stay energetic!
 - Intelligent Agents & Practical AI tool application
 
 ### 🔗 Key Links  
-- CSDN: https://blog.csdn.net/weixin_44262492?type=blog  
-- AI Tools: https://ai-bot.cn/daily-ai-news  
+- CSDN: https://blog.csdn.net/weixin_44262492?type=blog   
 
 🤝 Feel free to star/fork or reach out to chat—excited for collaboration!  
