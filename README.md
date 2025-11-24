@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm AiFun, a tech enthusiast ，sports-driven to stay energetic!  
+I'm FuNian, a tech enthusiast ，sports-driven to stay energetic!  
 
 ### 🌟 About Me
 - Master's graduate from the School of Computer Science, Sichuan University  
