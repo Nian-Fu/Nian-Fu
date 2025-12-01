@@ -1,6 +1,6 @@
 ## Hi there 👋 
 
-I'm FuNian,sports-driven to stay energetic!  
+I'm FuNian!  
 
 ### 🔗 Key Links and See More Articles
 - CSDN: https://blog.csdn.net/weixin_44262492?type=blog   
