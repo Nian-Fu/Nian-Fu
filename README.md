@@ -10,6 +10,6 @@ I'm FuNian!
 - Share project demos, learning notes & AI tool analyses  
 
 ### 🧠 Core Interests   
-- Large Language Models (LLMs) & AI Coding & Backend Development 
+- Large Language Models (LLMs)  & Backend Development 
 - Intelligent Agents & Practical AI tool application
 
