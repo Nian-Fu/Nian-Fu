@@ -1,7 +1,5 @@
 ## Hi there 👋 
 
-I'm FuNian!  
-
 ### 🔗 See More Articles
 - CSDN: https://blog.csdn.net/weixin_44262492?type=blog   
 
