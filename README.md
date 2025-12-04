@@ -1,7 +1,5 @@
 ## Hi there 👋 
 
-I'm Fu Nian. Enjoy street workout and running
-
 ### 🔗 See More Articles
 - CSDN: https://blog.csdn.net/weixin_44262492?type=blog   
 
